@@ -23,7 +23,7 @@ CASO O PAGAMENTO SEJA EFETUADO, IRÁ APARECER UMA TELA COM O COMPROVANTE E A OPC
 MENU DE PRODUTOS.
 
 <h2>Apresentação</h2>
-
+<p>
 =================================== 
 LOJA DE JOGOS
 ===================================
@@ -103,4 +103,4 @@ COMPROVANTE DE PAGAMENTO:
 ====================================
 1 - FAZER OUTRA COMPRA
 0 - SAIR
-====================================
+====================================</p>
