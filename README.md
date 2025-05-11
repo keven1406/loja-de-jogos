@@ -22,8 +22,8 @@ O SISTEMA IRÁ VERIFICAR SE OS DADOS SÃO CONFIRMADOS. SE TUDO DER CERTO, O PAGA
 CASO O PAGAMENTO SEJA EFETUADO, IRÁ APARECER UMA TELA COM O COMPROVANTE E A OPCAO DE SAIR OU VOLTAR AO
 MENU DE PRODUTOS.
 
-<h2>Apresentação</h2>
-<p>
+Apresentação
+
 =================================== 
 LOJA DE JOGOS
 ===================================
@@ -103,4 +103,4 @@ COMPROVANTE DE PAGAMENTO:
 ====================================
 1 - FAZER OUTRA COMPRA
 0 - SAIR
-====================================</p>
+====================================
