@@ -1,4 +1,5 @@
 package view;
+
 import java.util.*;
 
 public class View {
@@ -133,3 +134,4 @@ public class View {
         return scanner.nextInt();
     }
 }
+
