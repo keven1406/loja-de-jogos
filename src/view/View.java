@@ -1,5 +1,5 @@
 package view;
-
+import model.BancoDeDados;
 import java.util.*;
 
 public class View {
